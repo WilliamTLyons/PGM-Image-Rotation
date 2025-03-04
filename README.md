@@ -70,9 +70,9 @@ OpenMP enhances the efficiency of the rotation algorithms by distributing the wo
 
 The left image displays the sample input file, the middle image shows the file after a clockwise (rotate right) transformation, and the right image presents the result of a counterclockwise (rotate left) rotation.
 
-<img src="https://github.com/user-attachments/assets/2d2403fb-5559-43e5-9352-837a429e1ae1" alt="Screenshot" width="300" />
-<img src="https://github.com/user-attachments/assets/7cb59049-d331-44d9-8376-f2375273a3e3" alt="Screenshot" width="350" />
-<img src="https://github.com/user-attachments/assets/793e32af-3908-47bd-bfb5-858426762eb1" alt="Screenshot" width="350" />
+<img src="https://github.com/user-attachments/assets/2d2403fb-5559-43e5-9352-837a429e1ae1" alt="Screenshot" width="250" />
+<img src="https://github.com/user-attachments/assets/7cb59049-d331-44d9-8376-f2375273a3e3" alt="Screenshot" width="300" />
+<img src="https://github.com/user-attachments/assets/793e32af-3908-47bd-bfb5-858426762eb1" alt="Screenshot" width="300" />
 
 
 
